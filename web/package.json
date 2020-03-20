@@ -1,0 +1,8 @@
+{
+  "name": "FobosWeb",
+  "version": "1.0.0",
+  "description": "Versão WEB do chato online (FOBOS)",
+  "main": "index.js",
+  "author": "Victor Martins Machado",
+  "license": "MIT"
+}

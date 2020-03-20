@@ -1,0 +1,8 @@
+{
+  "name": "FobosApi",
+  "version": "1.0.0",
+  "description": "Api do módulo de chat online (FOBOS)",
+  "main": "index.js",
+  "author": "Victor Martins Machado",
+  "license": "MIT"
+}
